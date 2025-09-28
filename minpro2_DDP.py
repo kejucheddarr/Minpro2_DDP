@@ -28,7 +28,7 @@ def login():
             password = str(input("Masukkan password anda: "))
             #login apoteker
             if username == "Shoto" and password == "todorokisho":
-                print("Login berhasil! Selamat datang, Shoto!")
+                print("Login berhasil! Selamat datang, Apoteker Shoto!")
                 print("Pendataan Obat di Rumah Sakit")
 
                 print("[1] Input Data Obat")
@@ -116,7 +116,7 @@ def login():
                     break
             #login admin gudang
             elif username == "Bakugo" and password == "bkgkatsu":
-                print("Login berhasil! Selamat datang, Bakugo!")
+                print("Login berhasil! Selamat datang, Admin Gudang Bakugo!")
                 print("Pendataan Obat di Rumah Sakit")
 
                 print("[1] Cetak/Export Laporan Stok")
@@ -157,5 +157,6 @@ def login():
             print("Jangan tekan CTRL C ya")
         except EOFError:
             print("Jangan tekan CTRL Z ya")
+
 
 login()
