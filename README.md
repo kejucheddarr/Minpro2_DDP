@@ -4,6 +4,7 @@ NIM 2509116065 <br />
 Tema Program: Sistem Pendataan Obat di Rumah Sakit
 
 # FLOWCHART
+<img width="2451" height="2301" alt="Image" src="https://github.com/user-attachments/assets/b4edae82-c054-451b-8720-a15fb9f0d4a9" />
 
 # OUTPUT
 
