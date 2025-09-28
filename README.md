@@ -17,7 +17,7 @@ Jika pengguna memilih apoteker, maka akan disuruh untuk input nama dan password 
 <img width="1147" height="169" alt="image" src="https://github.com/user-attachments/assets/8259a9ca-0fc2-484e-858c-ece512e5cb09" />
 Jika nama dan password *benar*, maka pengguna akan masuk ke menu utama apoteker.
 <img width="1147" height="267" alt="image" src="https://github.com/user-attachments/assets/f49b266e-a0d9-4568-8a57-514febdd5c23" />
-Jika nama dan password *tidak benar*, maka pengguna akan balik ke menu login sebagai apoteker/admin gudang.
+Jika nama dan password *tidak benar*, maka pengguna akan balik ke menu "login sebagai apoteker/admin gudang?".
 <img width="1144" height="270" alt="image" src="https://github.com/user-attachments/assets/6b645f8a-99dc-4afa-8e57-554df064b3d4" />
 
 ### Menu utama apoteker
@@ -66,6 +66,12 @@ Jika pengguna memilih admin gudang, maka akan disuruh untuk input nama dan passw
 <img width="1148" height="135" alt="image" src="https://github.com/user-attachments/assets/f4f4accd-fa3a-4506-b345-9fe60fce6bd8" />
 Jika nama dan password *benar*, maka akan masuk ke menu utama admin gudang.
 <img width="1125" height="197" alt="image" src="https://github.com/user-attachments/assets/2df21775-7c30-4e4a-acea-9e9fef604c97" />
+Jika nama dan password *tidak benar*, maka pengguna akan balik ke menu "login sebagai apoteker/admin gudang?".
+<img width="1145" height="279" alt="image" src="https://github.com/user-attachments/assets/0ca054b9-d4fa-446d-a695-e6476b127756" />
+
+### Menu utama admin gudang
+<img width="1143" height="162" alt="image" src="https://github.com/user-attachments/assets/df882aa8-1d98-4c3d-8786-08d3ba93d20d" />
+
 
 ### Opsi 1 Cetak/Export Laporan Stok
 Jika admin gudang memilih opsi ini, maka bisa memilih untuk mencetak atau tidak mencetak laporan keluar/masuk stok obat. Jika pilih untuk **dicetak**, maka akan muncul teks yang berisi informasi keluar/masuk stok obat. Program selesai.
