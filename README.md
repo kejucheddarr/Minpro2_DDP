@@ -5,4 +5,7 @@ Tema Program: Sistem Pendataan Obat di Rumah Sakit
 
 ## FLOWCHART
 
+## Login
+Saat kodenya di run di terminal, pengguna akan menginput username dan password.
+
 ## Menu Utama
