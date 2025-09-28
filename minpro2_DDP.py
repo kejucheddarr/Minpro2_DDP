@@ -28,6 +28,7 @@ def menu_login():
 def login():
     while True:
         try:
+            menu_login()
             username = str(input("Masukkan nama anda: "))
             password = str(input("Masukkan password anda: "))
             #login apoteker
@@ -162,5 +163,4 @@ def login():
         except EOFError:
             print("Jangan tekan CTRL Z ya")
 
-menu_login()
 login()
