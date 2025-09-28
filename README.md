@@ -5,7 +5,9 @@ Tema Program: Sistem Pendataan Obat di Rumah Sakit
 
 # FLOWCHART
 
-# Pilih role
+# OUTPUT
+
+## Pilih Role
 Saat kodenya di run di terminal, pengguna akan memilih untuk login sebagai apoteker atau admin gudang.
 <img width="1144" height="191" alt="Image" src="https://github.com/user-attachments/assets/9f40c736-73e8-4ce7-8db7-a310769d8daa" />
 
@@ -55,3 +57,6 @@ Jika apoteker memilih opsi ini, maka program akan berhenti.
 <img width="1143" height="185" alt="image" src="https://github.com/user-attachments/assets/46793e2c-0a92-4fab-94f5-97a9df863169" />
 
 ## Admin Gudang
+Jika pengguna memilih admin gudang, maka akan disuruh untuk input nama dan password pengguna.
+<img width="1148" height="135" alt="image" src="https://github.com/user-attachments/assets/f4f4accd-fa3a-4506-b345-9fe60fce6bd8" />
+Jika nama dan password *benar*, maka akan masuk ke menu utama admin gudang.
